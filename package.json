@@ -1,0 +1,18 @@
+
+{
+  "name": "mt1-lab_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:http": "node httpServer.js",
+    "start:express": "node expressApp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
